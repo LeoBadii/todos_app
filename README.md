@@ -1,1 +1,1 @@
-simple to_do app, not finished but still pretty much working.
+Simple Legacy Educational Prototype, made using Vue and Typescript for frontend and Rust for backend.
